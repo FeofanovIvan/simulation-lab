@@ -1,16 +1,41 @@
-# simulation_lab
+# Simulation Lab — Crypto Calculator & Simulator
 
-A new Flutter project.
+Кроссплатформенное Flutter-приложение: калькулятор и симулятор криптовалютных инвестиций. Позволяет моделировать доходность портфеля, рассчитывать риски и отслеживать динамику без реальных вложений.
 
-## Getting Started
+[![App Store](https://img.shields.io/badge/App%20Store-Download-blue?logo=apple)](https://apps.apple.com/app/crypto-simulator/id6738080635)
+[![Google Play](https://img.shields.io/badge/Google%20Play-Download-green?logo=google-play)](https://play.google.com/store/apps/details?id=com.feofanova.simulation_lab)
 
-This project is a starting point for a Flutter application.
+## ✨ Возможности
 
-A few resources to get you started if this is your first Flutter project:
+- Симуляция роста криптопортфеля по историческим данным
+- Калькулятор доходности, DCA и усредnienia
+- Встроенная подписка (RevenueCat)
+- Поддержка iOS и Android из единой кодовой базы
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Стек
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter** (Dart)
+- **RevenueCat** — управление подписками
+- **Firebase** — аналитика и Crashlytics
+- Архитектура: BLoC / Provider
+
+## 📱 Скриншоты
+
+> Добавь 2–3 скриншота из App Store / Google Play
+
+## 🚀 Сборка
+
+```bash
+git clone https://github.com/FeofanovIvan/simulation-lab.git
+cd simulation-lab
+flutter pub get
+flutter run
+```
+
+Требования: Flutter 3.x, Dart 3.x
+
+> ⚠️ `GoogleService-Info.plist` и `google-services.json` исключены из репозитория.
+
+## 📄 Лицензия
+
+MIT © Ivan Feofanov
