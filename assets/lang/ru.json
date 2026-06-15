@@ -1,0 +1,226 @@
+{
+  "stop": "Стоп",
+  "quantity": "Количество",
+  "simulation_pro": "Simulation PRO",
+  "yes": "Да",
+  "no": "Нет",
+
+  "simulation_finished": "Симуляция завершена",
+  "simulation_saved_file": "Файл симуляции сохранён",
+  "download_pdf_report": "Скачать PDF-отчёт?",
+
+  "pdf_created": "PDF создан",
+
+  "enter_price": "Введите цену",
+  "cancel": "Отмена",
+  "ok": "ОК",
+
+  "scenario": "Сценарий",
+
+  "open_orders": "Открытые ордера",
+  "price": "Цена",
+  "current_price": "Текущая цена",
+  "amount": "Количество",
+
+  "edit_order": "Редактировать ордер",
+  "save": "Сохранить",
+
+  "insufficient_data": "Недостаточно данных",
+  "select_scenario_and_price": "Выберите сценарий и введите начальную цену",
+
+  "long": "LONG",
+  "short": "SHORT",
+  "buy": "Купить",
+  "sell": "Продать",
+
+  "calculator": "Калькулятор",
+  "entry_price": "Цена входа",
+
+  "position_size": "Размер позиции",
+  "position_coef": "Коэффициент позиции",
+  "liquidation_price": "Цена ликвидации",
+  "roi_pnl": "ROI / PNL",
+
+  "close_position": "Закрыть позицию",
+  "close_price": "Цена закрытия",
+  "close": "Закрыть",
+
+  "cannot_close_block": "Невозможно закрыть блок",
+  "position_has_active_data": "В позиции есть активные данные или ордера. Сначала закройте позицию или отмените ордера.",
+
+  "isolated_mode": "Изолированный",
+  "cross_mode": "Кросс",
+
+  "leverage": "Плечо",
+
+  "enter_profit": "Введите прибыль",
+  "enter_roi": "Введите ROI (%)",
+  "enter_pnl": "Введите PNL",
+
+  "roi_percent": "ROI %",
+  "pnl": "PNL",
+
+  "enter_leverage": "Введите плечо",
+
+  "average": "Усреднить",
+
+  "enter": "Ввести",
+  "market_price": "Рынок",
+
+  "cannot_reduce_leverage": "Нельзя уменьшить плечо после открытия позиции",
+
+  "margin": "Маржа",
+
+  "insufficient_data_title": "Недостаточно данных",
+  "insufficient_data_message": "Введите маржу и начальную цену",
+
+  "margin_locked_title": "Маржа зафиксирована",
+  "margin_locked_message": "После открытия позиции маржу нельзя изменить вручную.\n\nЧтобы добавить маржу, используйте кнопку «Усреднить».",
+  "understood": "Понятно",
+
+  "insufficient_balance_message": "Недостаточно средств. Установите необходимый баланс.",
+
+  "simulation_limit_order_hint": "В режиме симуляции будет создан лимитный ордер.\nЕсли указанная цена ниже текущей, будет использована текущая цена.",
+
+  "calculate": "Рассчитать",
+  "calculater": "Калькулятор",
+
+  "balance": "Баланс",
+  "change_balance": "Изменить баланс",
+
+  "scenario_saved": "Сценарий сохранён",
+
+  "pro_feature": "PRO функция",
+
+  "simulation_pro_description_free": "Симуляция поведения рынка — это PRO функция.\n\nУ вас есть 1 бесплатная попытка.\n\nСимуляция включает:\n• Кросс и изолированный режим\n• Возможность паузы\n• Перемотку вперёд\n• Экспорт графика в PDF",
+
+  "simulation_pro_description_paid": "Бесплатная попытка использована.\n\nДля продолжения активируйте PRO подписку.\n\nPRO версия включает:\n• Кросс режим\n• Расширенные расчёты\n• Экспорт в PDF\n• Полный контроль симуляции",
+
+  "simulation_try_free": "Симуляция (1)",
+  "get_pro": "Получить PRO",
+
+  "cross_pro_title": "PRO функция",
+  "cross_pro_description": "Кросс режим доступен только в PRO.\n\nPRO версия включает:\n• Кросс режим\n• Расширенные расчёты\n• Дополнительные инструменты",
+
+  "settings": "Настройки",
+
+  "language": "Язык",
+  "theme": "Тема",
+  "light_dark": "Светлая / Тёмная",
+
+  "pro_version": "PRO версия",
+  "open_pro_features": "Открыть PRO функции",
+
+  "simulation_history": "История симуляций",
+  "view_trades": "Просмотр сделок",
+
+  "contact": "Контакты",
+  "privacy_policy": "Политика конфиденциальности",
+
+ "app_version": "Crypto Calculator & Simulator v1.0.0",
+
+  "privacy_text": "Simulation Lab — это обучающий симулятор и не является финансовым инструментом.\n\nПриложение не собирает персональные данные.\n\nВсе расчёты носят ознакомительный характер.\n\nРазработчик не несёт ответственности за финансовые решения пользователей.",
+
+  "no_saved_simulations": "Нет сохранённых симуляций",
+
+  "downloads_folder_not_found": "Папка загрузок не найдена",
+  "file_saved": "Файл сохранён",
+
+  "delete_simulation_title": "Удалить симуляцию?",
+  "delete_simulation_message": "Вы уверены, что хотите удалить журнал симуляции?",
+  "delete": "Удалить",
+
+  "simulation": "Симуляция",
+
+  "random_scenario": "Случайный",
+  "choose_random_scenario": "Выбрать случайный сценарий",
+
+  "position_coefficient": "Коэффициент позиции",
+  "cross_pro_text": "Кросс режим доступен только в PRO версии. В PRO доступны: кросс режим, расширенные расчёты и дополнительные инструменты.",
+
+  "balance_edit": "Редактировать баланс",
+
+  "isolated": "Изолированный",
+  "cross": "Кросс",
+
+  "enter_value": "Введите значение",
+
+  "enter_margin_and_price": "Введите маржу и начальную цену",
+
+  "margin_locked": "Маржа зафиксирована",
+  "margin_locked_text": "После открытия позиции маржу нельзя изменить вручную. Используйте кнопку «Усреднить».",
+
+  "block_has_data": "В позиции есть активные данные или ордера. Сначала закройте позицию или отмените ордера.",
+
+  "insufficient_balance": "Недостаточно средств. Установите баланс",
+
+  "simulation_limit_order_info": "В режиме симуляции создаётся лимитный ордер. Если цена ниже текущей — будет использована текущая.",
+
+  "simulation_try": "Симуляция (1)",
+
+  "simulation_pro_text_free": "Симуляция — PRO функция.\n\nУ вас есть 1 бесплатная попытка.\n\nВключает:\n• Кросс и изолированный режим\n• Пауза\n• Перемотка\n• PDF",
+
+  "simulation_pro_text_paid": "Бесплатная попытка использована.\n\nДля продолжения купите PRO.\n\nВключает:\n• Кросс режим\n• Расширенные расчёты\n• PDF\n• Полный контроль",
+
+  "theme_light_dark": "Светлая / Тёмная",
+
+  "privacy_policy_text": "Simulation Lab — обучающий симулятор, не финансовый инструмент.\n\nПриложение не собирает персональные данные.\n\nВсе расчёты — информационные.\n\nРазработчик не несёт ответственности за решения пользователей.",
+
+  "average_locked": "Усреднение недоступно",
+  "average_locked_text": "Сначала рассчитайте позицию",
+
+  "scenario_locked": "Сценарий заблокирован",
+
+  "clear_history": "Очистить историю",
+  "clear_history_confirm": "Удалить все симуляции?",
+  "history_cleared": "История очищена",
+
+  "pro_title": "PRO подписка",
+  "pro_unlock_title": "Открыть всё",
+  "pro_unlock_subtitle": "Расширенные симуляции и PRO функции",
+  "pro_active": "PRO активен",
+
+  "pro_monthly_title": "1 месяц",
+  "pro_monthly_subtitle": "Гибкий план",
+
+  "pro_3months_title": "3 месяца",
+  "pro_3months_subtitle": "Оптимальный выбор",
+  "pro_most_popular": "Популярно",
+
+  "pro_yearly_title": "1 год",
+  "pro_yearly_subtitle": "Лучшая цена",
+  "pro_best_value": "Лучшее предложение",
+
+  "pro_subscribe": "Подписаться",
+  "pro_current": "Текущий план",
+
+  "pro_restore": "Восстановить покупки",
+  "pro_manage": "Управление подпиской",
+  "pro_promo": "Промокод",
+
+  "terms": "Условия использования",
+  "privacy": "Политика конфиденциальности",
+
+  "products_not_found": "Продукты не найдены",
+  "please_wait": "Пожалуйста, подождите",
+
+  "ios_promo_help": "Промокоды на iOS активируются через App Store",
+
+  "scenario_locked_text": "Остановите симуляцию перед сменой сценария",
+
+  "pro_store_unavailable": "Магазин недоступен",
+  "pro_selected": "Выбрано",
+  "pro_tap_to_select": "Нажмите для выбора",
+
+  "pro_promo_local_title": "Промокод",
+  "pro_promo_local_subtitle": "Введите код для активации PRO на 30 дней",
+  "pro_promo_apply": "Применить",
+
+  "promo_success_30d": "PRO активирован на 30 дней",
+  "promo_error_empty": "Введите код",
+  "promo_error_invalid": "Неверный код",
+  "promo_error_used": "Код уже использован",
+  "promo_enter_code": "Введите код",
+
+  "pro_active_until": "PRO активен до"
+}

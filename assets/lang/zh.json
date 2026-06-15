@@ -1,0 +1,225 @@
+{
+  "stop": "停止",
+  "quantity": "数量",
+  "simulation_pro": "Simulation PRO",
+  "yes": "是",
+  "no": "否",
+
+  "simulation_finished": "模拟已完成",
+  "simulation_saved_file": "您的模拟已保存",
+  "download_pdf_report": "是否下载 PDF 报告？",
+
+  "pdf_created": "PDF 已生成",
+
+  "enter_price": "输入价格",
+  "cancel": "取消",
+  "ok": "确定",
+
+  "scenario": "场景",
+
+  "open_orders": "未平订单",
+  "price": "价格",
+  "current_price": "当前价格",
+  "amount": "数量",
+
+  "edit_order": "编辑订单",
+  "save": "保存",
+
+  "insufficient_data": "数据不足",
+  "select_scenario_and_price": "请选择场景并输入起始价格",
+
+  "long": "LONG",
+  "short": "SHORT",
+  "buy": "买入",
+  "sell": "卖出",
+
+  "calculator": "计算器",
+  "entry_price": "入场价格",
+
+  "position_size": "仓位大小",
+  "position_coef": "仓位系数",
+  "liquidation_price": "强平价格",
+  "roi_pnl": "ROI / PNL",
+
+  "close_position": "平仓",
+  "close_price": "平仓价格",
+  "close": "关闭",
+
+  "cannot_close_block": "无法关闭模块",
+  "position_has_active_data": "该仓位包含活动数据或订单。请先平仓或取消订单。",
+
+  "isolated_mode": "逐仓",
+  "cross_mode": "全仓",
+
+  "leverage": "杠杆",
+
+  "enter_profit": "输入利润",
+  "enter_roi": "输入 ROI (%)",
+  "enter_pnl": "输入 PNL",
+
+  "roi_percent": "ROI %",
+  "pnl": "PNL",
+
+  "enter_leverage": "输入杠杆",
+
+  "average": "加仓",
+
+  "enter": "输入",
+  "market_price": "市价",
+
+  "cannot_reduce_leverage": "开仓后无法降低杠杆",
+
+  "margin": "保证金",
+
+  "insufficient_data_title": "数据不足",
+  "insufficient_data_message": "请输入保证金和起始价格",
+
+  "margin_locked_title": "保证金已锁定",
+  "margin_locked_message": "开仓后无法手动修改保证金。\n\n请使用“加仓”按钮来增加保证金。",
+  "understood": "知道了",
+
+  "insufficient_balance_message": "余额不足。请先设置所需余额。",
+
+  "simulation_limit_order_hint": "在模拟模式下将创建限价单。\n如果输入价格低于当前价格，将使用当前价格。",
+
+  "calculate": "计算",
+
+  "balance": "余额",
+  "change_balance": "修改余额",
+
+  "scenario_saved": "场景已保存",
+
+  "pro_feature": "PRO 功能",
+
+  "simulation_pro_description_free": "市场模拟是 PRO 功能。\n\n您有 1 次免费体验。\n\n功能包括：\n• 全仓和逐仓模式\n• 暂停功能\n• 快进播放\n• PDF 导出",
+
+  "simulation_pro_description_paid": "免费体验已用完。\n\n请激活 PRO 订阅以继续使用。\n\nPRO 版本包括：\n• 全仓模式\n• 高级计算\n• PDF 导出\n• 完整控制",
+
+  "simulation_try_free": "模拟 (1)",
+  "get_pro": "获取 PRO",
+
+  "cross_pro_title": "PRO 功能",
+  "cross_pro_description": "全仓模式仅对 PRO 用户开放。\n\nPRO 版本包括：\n• 全仓模式\n• 高级计算\n• 额外工具",
+
+  "settings": "设置",
+
+  "language": "语言",
+  "theme": "主题",
+  "light_dark": "浅色 / 深色",
+
+  "pro_version": "PRO 版本",
+  "open_pro_features": "解锁 PRO 功能",
+
+  "simulation_history": "模拟历史",
+  "view_trades": "查看交易",
+
+  "contact": "联系",
+  "privacy_policy": "隐私政策",
+
+  "app_version": "Crypto Calculator & Simulator v1.0.0",
+
+  "privacy_text": "Simulation Lab 是一个教育模拟器，并非金融工具。\n\n应用不会收集个人数据。\n\n所有计算仅供参考。\n\n开发者不对任何金融决策负责。",
+
+  "no_saved_simulations": "没有已保存的模拟",
+
+  "downloads_folder_not_found": "未找到下载文件夹",
+  "file_saved": "文件已保存",
+
+  "delete_simulation_title": "删除模拟？",
+  "delete_simulation_message": "确定要删除此模拟记录吗？",
+  "delete": "删除",
+
+  "simulation": "模拟",
+
+  "random_scenario": "随机",
+  "choose_random_scenario": "选择随机场景",
+
+  "position_coefficient": "仓位系数",
+  "cross_pro_text": "全仓模式仅在 PRO 版本中提供，包括高级计算和额外工具。",
+
+  "balance_edit": "编辑余额",
+
+  "isolated": "逐仓",
+  "cross": "全仓",
+
+  "enter_value": "输入数值",
+
+  "enter_margin_and_price": "请输入保证金和起始价格",
+
+  "margin_locked": "保证金锁定",
+  "margin_locked_text": "开仓后无法修改保证金。请使用“加仓”按钮。",
+
+  "block_has_data": "该仓位包含活动数据或订单。请先平仓或取消订单。",
+
+  "insufficient_balance": "余额不足。请先设置余额",
+
+  "simulation_limit_order_info": "模拟模式下会创建限价单。如果价格较低，将使用当前价格。",
+
+  "simulation_try": "模拟 (1)",
+
+  "simulation_pro_text_free": "模拟是 PRO 功能。\n\n您有 1 次免费体验。\n\n包括：\n• 全仓和逐仓模式\n• 暂停\n• 快进\n• PDF",
+
+  "simulation_pro_text_paid": "免费体验已用完。\n\n请购买 PRO 以继续。\n\n包括：\n• 全仓模式\n• 高级计算\n• PDF\n• 完整控制",
+
+  "theme_light_dark": "浅色 / 深色",
+
+  "privacy_policy_text": "Simulation Lab 是教育模拟器，并非金融工具。\n\n应用不会收集个人数据。\n\n所有计算仅供参考。\n\n开发者不承担责任。",
+
+  "average_locked": "无法加仓",
+  "average_locked_text": "请先计算仓位",
+
+  "scenario_locked": "场景已锁定",
+
+  "clear_history": "清除历史",
+  "clear_history_confirm": "删除所有模拟？",
+  "history_cleared": "历史已清除",
+
+  "pro_title": "PRO 订阅",
+  "pro_unlock_title": "解锁全部",
+  "pro_unlock_subtitle": "高级模拟与 PRO 功能",
+  "pro_active": "PRO 已激活",
+
+  "pro_monthly_title": "1 个月",
+  "pro_monthly_subtitle": "灵活方案",
+
+  "pro_3months_title": "3 个月",
+  "pro_3months_subtitle": "最佳平衡",
+  "pro_most_popular": "最受欢迎",
+
+  "pro_yearly_title": "1 年",
+  "pro_yearly_subtitle": "最佳性价比",
+  "pro_best_value": "最佳优惠",
+
+  "pro_subscribe": "订阅",
+  "pro_current": "当前方案",
+
+  "pro_restore": "恢复购买",
+  "pro_manage": "管理订阅",
+  "pro_promo": "优惠码",
+
+  "terms": "使用条款",
+  "privacy": "隐私",
+
+  "products_not_found": "未找到产品",
+  "please_wait": "请稍候",
+
+  "ios_promo_help": "iOS 优惠码需通过 App Store 使用",
+
+  "scenario_locked_text": "更改场景前请停止模拟",
+
+  "pro_store_unavailable": "商店不可用",
+  "pro_selected": "已选择",
+  "pro_tap_to_select": "点击选择",
+
+  "pro_promo_local_title": "优惠码",
+  "pro_promo_local_subtitle": "输入代码以解锁 30 天 PRO",
+  "pro_promo_apply": "应用",
+
+  "promo_success_30d": "PRO 已激活 30 天",
+  "promo_error_empty": "请输入代码",
+  "promo_error_invalid": "无效代码",
+  "promo_error_used": "该代码已使用",
+  "promo_enter_code": "输入代码",
+"calculater": "计算器"    ,
+  "pro_active_until": "PRO 有效期至"
+}

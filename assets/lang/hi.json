@@ -1,0 +1,225 @@
+{
+  "stop": "रोकें",
+  "quantity": "मात्रा",
+  "simulation_pro": "Simulation PRO",
+  "yes": "हाँ",
+  "no": "नहीं",
+
+  "simulation_finished": "सिमुलेशन पूरा हो गया",
+  "simulation_saved_file": "आपका सिमुलेशन सहेजा गया है",
+  "download_pdf_report": "क्या आप PDF रिपोर्ट डाउनलोड करना चाहते हैं?",
+
+  "pdf_created": "PDF बन गया",
+
+  "enter_price": "मूल्य दर्ज करें",
+  "cancel": "रद्द करें",
+  "ok": "ठीक है",
+
+  "scenario": "परिदृश्य",
+
+  "open_orders": "खुले ऑर्डर",
+  "price": "मूल्य",
+  "current_price": "वर्तमान मूल्य",
+  "amount": "मात्रा",
+
+  "edit_order": "ऑर्डर संपादित करें",
+  "save": "सहेजें",
+
+  "insufficient_data": "अपर्याप्त डेटा",
+  "select_scenario_and_price": "परिदृश्य चुनें और प्रारंभिक मूल्य दर्ज करें",
+
+  "long": "LONG",
+  "short": "SHORT",
+  "buy": "खरीदें",
+  "sell": "बेचें",
+
+  "calculator": "कैलकुलेटर",
+  "entry_price": "प्रवेश मूल्य",
+
+  "position_size": "पोज़िशन का आकार",
+  "position_coef": "पोज़िशन गुणांक",
+  "liquidation_price": "लिक्विडेशन मूल्य",
+  "roi_pnl": "ROI / PNL",
+
+  "close_position": "पोज़िशन बंद करें",
+  "close_price": "बंद करने का मूल्य",
+  "close": "बंद करें",
+
+  "cannot_close_block": "ब्लॉक बंद नहीं किया जा सकता",
+  "position_has_active_data": "पोज़िशन में सक्रिय डेटा या ऑर्डर हैं। पहले पोज़िशन बंद करें या ऑर्डर रद्द करें।",
+
+  "isolated_mode": "आइसोलेटेड",
+  "cross_mode": "Cross",
+
+  "leverage": "लीवरेज",
+
+  "enter_profit": "लाभ दर्ज करें",
+  "enter_roi": "ROI (%) दर्ज करें",
+  "enter_pnl": "PNL दर्ज करें",
+
+  "roi_percent": "ROI %",
+  "pnl": "PNL",
+
+  "enter_leverage": "लीवरेज दर्ज करें",
+
+  "average": "एवरेज करें",
+
+  "enter": "दर्ज करें",
+  "market_price": "मार्केट",
+
+  "cannot_reduce_leverage": "पोज़िशन खोलने के बाद लीवरेज कम नहीं किया जा सकता",
+
+  "margin": "मार्जिन",
+
+  "insufficient_data_title": "पर्याप्त डेटा नहीं",
+  "insufficient_data_message": "मार्जिन और प्रारंभिक मूल्य दर्ज करें",
+
+  "margin_locked_title": "मार्जिन लॉक है",
+  "margin_locked_message": "पोज़िशन खोलने के बाद मार्जिन को मैन्युअल रूप से बदला नहीं जा सकता।\n\nमार्जिन जोड़ने के लिए «एवरेज» बटन का उपयोग करें।",
+  "understood": "समझ गया",
+
+  "insufficient_balance_message": "पर्याप्त बैलेंस नहीं है। कृपया आवश्यक बैलेंस सेट करें।",
+
+  "simulation_limit_order_hint": "सिमुलेशन मोड में एक लिमिट ऑर्डर बनाया जाएगा।\nयदि दिया गया मूल्य वर्तमान मूल्य से कम है, तो वर्तमान मूल्य का उपयोग किया जाएगा।",
+
+  "calculate": "गणना करें",
+
+  "balance": "बैलेंस",
+  "change_balance": "बैलेंस बदलें",
+
+  "scenario_saved": "परिदृश्य सहेजा गया",
+
+  "pro_feature": "PRO फीचर",
+
+  "simulation_pro_description_free": "मार्केट सिमुलेशन एक PRO फीचर है।\n\nआपके पास 1 मुफ्त प्रयास है।\n\nसिमुलेशन में शामिल है:\n• Cross और Isolated मोड\n• पॉज़ करने की सुविधा\n• फास्ट फॉरवर्ड\n• PDF एक्सपोर्ट",
+
+  "simulation_pro_description_paid": "मुफ्त प्रयास उपयोग हो चुका है।\n\nजारी रखने के लिए PRO सब्सक्रिप्शन सक्रिय करें।\n\nPRO संस्करण में शामिल है:\n• Cross मोड\n• उन्नत गणनाएँ\n• PDF एक्सपोर्ट\n• पूर्ण नियंत्रण",
+
+  "simulation_try_free": "सिमुलेशन (1)",
+  "get_pro": "PRO प्राप्त करें",
+
+  "cross_pro_title": "PRO फीचर",
+  "cross_pro_description": "Cross मोड केवल PRO उपयोगकर्ताओं के लिए उपलब्ध है।\n\nPRO संस्करण में शामिल है:\n• Cross मोड\n• उन्नत गणनाएँ\n• अतिरिक्त टूल्स",
+
+  "settings": "सेटिंग्स",
+
+  "language": "भाषा",
+  "theme": "थीम",
+  "light_dark": "लाइट / डार्क",
+
+  "pro_version": "PRO संस्करण",
+  "open_pro_features": "PRO फीचर्स अनलॉक करें",
+
+  "simulation_history": "सिमुलेशन इतिहास",
+  "view_trades": "ट्रेड देखें",
+
+  "contact": "संपर्क",
+  "privacy_policy": "गोपनीयता नीति",
+
+  "app_version": "Crypto Calculator & Simulator v1.0.0",
+
+  "privacy_text": "Simulation Lab एक शैक्षिक सिमुलेटर है और यह कोई वित्तीय उपकरण नहीं है।\n\nयह ऐप व्यक्तिगत डेटा एकत्र नहीं करता।\n\nसभी गणनाएँ केवल जानकारी के लिए हैं।\n\nडेवलपर किसी भी वित्तीय निर्णय के लिए जिम्मेदार नहीं है।",
+
+  "no_saved_simulations": "कोई सहेजी गई सिमुलेशन नहीं",
+
+  "downloads_folder_not_found": "डाउनलोड फ़ोल्डर नहीं मिला",
+  "file_saved": "फ़ाइल सहेजी गई",
+
+  "delete_simulation_title": "क्या सिमुलेशन हटाना है?",
+  "delete_simulation_message": "क्या आप इस सिमुलेशन को हटाना चाहते हैं?",
+  "delete": "हटाएँ",
+
+  "simulation": "सिमुलेशन",
+
+  "random_scenario": "रैंडम",
+  "choose_random_scenario": "रैंडम परिदृश्य चुनें",
+
+  "position_coefficient": "पोज़िशन गुणांक",
+  "cross_pro_text": "Cross मोड केवल PRO संस्करण में उपलब्ध है। इसमें Cross मोड, उन्नत गणनाएँ और अतिरिक्त टूल्स शामिल हैं।",
+
+  "balance_edit": "बैलेंस संपादित करें",
+
+  "isolated": "आइसोलेटेड",
+  "cross": "Cross",
+
+  "enter_value": "मान दर्ज करें",
+
+  "enter_margin_and_price": "मार्जिन और प्रारंभिक मूल्य दर्ज करें",
+
+  "margin_locked": "मार्जिन लॉक",
+  "margin_locked_text": "पोज़िशन खोलने के बाद मार्जिन बदला नहीं जा सकता। «एवरेज» बटन का उपयोग करें।",
+
+  "block_has_data": "पोज़िशन में सक्रिय डेटा या ऑर्डर हैं। पहले पोज़िशन बंद करें या ऑर्डर रद्द करें।",
+
+  "insufficient_balance": "पर्याप्त बैलेंस नहीं है। पहले बैलेंस सेट करें",
+
+  "simulation_limit_order_info": "सिमुलेशन मोड में लिमिट ऑर्डर बनाया जाता है। यदि मूल्य कम है, तो वर्तमान मूल्य उपयोग होगा।",
+
+  "simulation_try": "सिमुलेशन (1)",
+
+  "simulation_pro_text_free": "सिमुलेशन एक PRO फीचर है।\n\nआपके पास 1 मुफ्त प्रयास है।\n\nइसमें शामिल है:\n• Cross और Isolated मोड\n• पॉज़\n• फास्ट फॉरवर्ड\n• PDF",
+
+  "simulation_pro_text_paid": "मुफ्त प्रयास समाप्त हो चुका है।\n\nजारी रखने के लिए PRO खरीदें।\n\nइसमें शामिल है:\n• Cross मोड\n• उन्नत गणनाएँ\n• PDF\n• पूर्ण नियंत्रण",
+
+  "theme_light_dark": "लाइट / डार्क",
+
+  "privacy_policy_text": "Simulation Lab एक शैक्षिक सिमुलेटर है और वित्तीय उपकरण नहीं है।\n\nऐप कोई व्यक्तिगत डेटा एकत्र नहीं करता।\n\nसभी गणनाएँ जानकारी के लिए हैं।\n\nडेवलपर जिम्मेदार नहीं है।",
+
+  "average_locked": "एवरेजिंग उपलब्ध नहीं",
+  "average_locked_text": "पहले पोज़िशन की गणना करें",
+
+  "scenario_locked": "परिदृश्य लॉक",
+
+  "clear_history": "इतिहास साफ़ करें",
+  "clear_history_confirm": "क्या सभी सिमुलेशन हटानी हैं?",
+  "history_cleared": "इतिहास साफ़ किया गया",
+
+  "pro_title": "PRO सदस्यता",
+  "pro_unlock_title": "सब कुछ अनलॉक करें",
+  "pro_unlock_subtitle": "उन्नत सिमुलेशन और PRO फीचर्स",
+  "pro_active": "PRO सक्रिय",
+
+  "pro_monthly_title": "1 महीना",
+  "pro_monthly_subtitle": "लचीली योजना",
+
+  "pro_3months_title": "3 महीने",
+  "pro_3months_subtitle": "संतुलित विकल्प",
+  "pro_most_popular": "सबसे लोकप्रिय",
+
+  "pro_yearly_title": "1 वर्ष",
+  "pro_yearly_subtitle": "सबसे अच्छा मूल्य",
+  "pro_best_value": "सबसे अच्छा ऑफर",
+
+  "pro_subscribe": "सब्सक्राइब करें",
+  "pro_current": "वर्तमान योजना",
+
+  "pro_restore": "खरीद बहाल करें",
+  "pro_manage": "सब्सक्रिप्शन प्रबंधित करें",
+  "pro_promo": "प्रोमो कोड",
+
+  "terms": "उपयोग की शर्तें",
+  "privacy": "गोपनीयता नीति",
+
+  "products_not_found": "उत्पाद नहीं मिले",
+  "please_wait": "कृपया प्रतीक्षा करें",
+
+  "ios_promo_help": "iOS पर प्रोमो कोड App Store के माध्यम से उपयोग किए जाते हैं",
+
+  "scenario_locked_text": "परिदृश्य बदलने से पहले सिमुलेशन रोकें",
+
+  "pro_store_unavailable": "स्टोर उपलब्ध नहीं",
+  "pro_selected": "चयनित",
+  "pro_tap_to_select": "चुनने के लिए टैप करें",
+
+  "pro_promo_local_title": "प्रोमो कोड",
+  "pro_promo_local_subtitle": "30 दिनों के लिए PRO अनलॉक करने हेतु कोड दर्ज करें",
+  "pro_promo_apply": "लागू करें",
+
+  "promo_success_30d": "PRO 30 दिनों के लिए सक्रिय",
+  "promo_error_empty": "कोड दर्ज करें",
+  "promo_error_invalid": "अमान्य कोड",
+  "promo_error_used": "यह कोड पहले ही उपयोग किया जा चुका है",
+  "promo_enter_code": "कोड दर्ज करें",
+"calculater": "कैलकुलेटर"    ,
+  "pro_active_until": "PRO सक्रिय रहेगा"
+}

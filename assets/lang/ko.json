@@ -1,0 +1,225 @@
+{
+  "stop": "중지",
+  "quantity": "수량",
+  "simulation_pro": "Simulation PRO",
+  "yes": "예",
+  "no": "아니요",
+
+  "simulation_finished": "시뮬레이션이 완료되었습니다",
+  "simulation_saved_file": "시뮬레이션이 저장되었습니다",
+  "download_pdf_report": "PDF 보고서를 다운로드하시겠습니까?",
+
+  "pdf_created": "PDF가 생성되었습니다",
+
+  "enter_price": "가격 입력",
+  "cancel": "취소",
+  "ok": "확인",
+
+  "scenario": "시나리오",
+
+  "open_orders": "열린 주문",
+  "price": "가격",
+  "current_price": "현재 가격",
+  "amount": "수량",
+
+  "edit_order": "주문 수정",
+  "save": "저장",
+
+  "insufficient_data": "데이터 부족",
+  "select_scenario_and_price": "시나리오를 선택하고 시작 가격을 입력하세요",
+
+  "long": "LONG",
+  "short": "SHORT",
+  "buy": "매수",
+  "sell": "매도",
+
+  "calculator": "계산기",
+  "entry_price": "진입 가격",
+
+  "position_size": "포지션 크기",
+  "position_coef": "포지션 계수",
+  "liquidation_price": "청산 가격",
+  "roi_pnl": "ROI / PNL",
+
+  "close_position": "포지션 종료",
+  "close_price": "종료 가격",
+  "close": "닫기",
+
+  "cannot_close_block": "블록을 닫을 수 없습니다",
+  "position_has_active_data": "포지션에 활성 데이터 또는 주문이 있습니다. 먼저 포지션을 종료하거나 주문을 취소하세요.",
+
+  "isolated_mode": "격리",
+  "cross_mode": "크로스",
+
+  "leverage": "레버리지",
+
+  "enter_profit": "수익 입력",
+  "enter_roi": "ROI (%) 입력",
+  "enter_pnl": "PNL 입력",
+
+  "roi_percent": "ROI %",
+  "pnl": "PNL",
+
+  "enter_leverage": "레버리지 입력",
+
+  "average": "평균화",
+
+  "enter": "입력",
+  "market_price": "시장",
+
+  "cannot_reduce_leverage": "포지션을 연 후에는 레버리지를 줄일 수 없습니다",
+
+  "margin": "마진",
+
+  "insufficient_data_title": "데이터 부족",
+  "insufficient_data_message": "마진과 시작 가격을 입력하세요",
+
+  "margin_locked_title": "마진 잠금",
+  "margin_locked_message": "포지션을 연 후에는 마진을 수동으로 변경할 수 없습니다.\n\n마진을 추가하려면 '평균화' 버튼을 사용하세요.",
+  "understood": "확인",
+
+  "insufficient_balance_message": "잔액이 부족합니다. 필요한 잔액을 설정하세요.",
+
+  "simulation_limit_order_hint": "시뮬레이션 모드에서는 지정가 주문이 생성됩니다.\n입력한 가격이 현재 가격보다 낮으면 현재 가격이 사용됩니다.",
+
+  "calculate": "계산",
+
+  "balance": "잔액",
+  "change_balance": "잔액 변경",
+
+  "scenario_saved": "시나리오가 저장되었습니다",
+
+  "pro_feature": "PRO 기능",
+
+  "simulation_pro_description_free": "시장 시뮬레이션은 PRO 기능입니다.\n\n1회 무료로 사용할 수 있습니다.\n\n포함 기능:\n• 크로스 및 격리 모드\n• 일시 정지\n• 빠른 재생\n• PDF 내보내기",
+
+  "simulation_pro_description_paid": "무료 사용이 완료되었습니다.\n\n계속하려면 PRO 구독을 활성화하세요.\n\nPRO 버전 포함 기능:\n• 크로스 모드\n• 고급 계산\n• PDF 내보내기\n• 전체 제어",
+
+  "simulation_try_free": "시뮬레이션 (1)",
+  "get_pro": "PRO 받기",
+
+  "cross_pro_title": "PRO 기능",
+  "cross_pro_description": "크로스 모드는 PRO 사용자에게만 제공됩니다.\n\nPRO 버전 포함:\n• 크로스 모드\n• 고급 계산\n• 추가 도구",
+
+  "settings": "설정",
+
+  "language": "언어",
+  "theme": "테마",
+  "light_dark": "라이트 / 다크",
+
+  "pro_version": "PRO 버전",
+  "open_pro_features": "PRO 기능 잠금 해제",
+
+  "simulation_history": "시뮬레이션 기록",
+  "view_trades": "거래 보기",
+
+  "contact": "연락처",
+  "privacy_policy": "개인정보 보호정책",
+
+ "app_version": "Crypto Calculator & Simulator v1.0.0",
+
+  "privacy_text": "Simulation Lab은 교육용 시뮬레이터이며 금융 도구가 아닙니다.\n\n앱은 개인 데이터를 수집하지 않습니다.\n\n모든 계산은 참고용입니다.\n\n개발자는 금융 결정에 대해 책임지지 않습니다.",
+
+  "no_saved_simulations": "저장된 시뮬레이션이 없습니다",
+
+  "downloads_folder_not_found": "다운로드 폴더를 찾을 수 없습니다",
+  "file_saved": "파일이 저장되었습니다",
+
+  "delete_simulation_title": "시뮬레이션을 삭제하시겠습니까?",
+  "delete_simulation_message": "이 시뮬레이션 기록을 삭제하시겠습니까?",
+  "delete": "삭제",
+
+  "simulation": "시뮬레이션",
+
+  "random_scenario": "랜덤",
+  "choose_random_scenario": "랜덤 시나리오 선택",
+
+  "position_coefficient": "포지션 계수",
+  "cross_pro_text": "크로스 모드는 PRO 버전에서만 사용할 수 있습니다. 고급 계산 및 추가 도구가 포함됩니다.",
+
+  "balance_edit": "잔액 수정",
+
+  "isolated": "격리",
+  "cross": "크로스",
+
+  "enter_value": "값 입력",
+
+  "enter_margin_and_price": "마진과 시작 가격을 입력하세요",
+
+  "margin_locked": "마진 잠금",
+  "margin_locked_text": "포지션을 연 후에는 마진을 변경할 수 없습니다. '평균화' 버튼을 사용하세요.",
+
+  "block_has_data": "포지션에 활성 데이터 또는 주문이 있습니다. 먼저 포지션을 종료하거나 주문을 취소하세요.",
+
+  "insufficient_balance": "잔액 부족. 먼저 잔액을 설정하세요",
+
+  "simulation_limit_order_info": "시뮬레이션 모드에서는 지정가 주문이 생성됩니다. 가격이 낮으면 현재 가격이 사용됩니다.",
+
+  "simulation_try": "시뮬레이션 (1)",
+
+  "simulation_pro_text_free": "시뮬레이션은 PRO 기능입니다.\n\n1회 무료 사용 가능\n\n포함:\n• 크로스 및 격리\n• 일시 정지\n• 빠른 재생\n• PDF",
+
+  "simulation_pro_text_paid": "무료 사용이 완료되었습니다.\n\n계속하려면 PRO를 구매하세요.\n\n포함:\n• 크로스 모드\n• 고급 계산\n• PDF\n• 전체 제어",
+
+  "theme_light_dark": "라이트 / 다크",
+
+  "privacy_policy_text": "Simulation Lab은 교육용 시뮬레이터이며 금융 도구가 아닙니다.\n\n앱은 개인 데이터를 수집하지 않습니다.\n\n모든 계산은 참고용입니다.\n\n개발자는 책임지지 않습니다.",
+
+  "average_locked": "평균화 사용 불가",
+  "average_locked_text": "먼저 포지션을 계산하세요",
+
+  "scenario_locked": "시나리오 잠금",
+
+  "clear_history": "기록 삭제",
+  "clear_history_confirm": "모든 시뮬레이션을 삭제하시겠습니까?",
+  "history_cleared": "기록이 삭제되었습니다",
+
+  "pro_title": "PRO 구독",
+  "pro_unlock_title": "모두 잠금 해제",
+  "pro_unlock_subtitle": "고급 시뮬레이션 및 PRO 기능",
+  "pro_active": "PRO 활성",
+
+  "pro_monthly_title": "1개월",
+  "pro_monthly_subtitle": "유연한 플랜",
+
+  "pro_3months_title": "3개월",
+  "pro_3months_subtitle": "균형 잡힌 선택",
+  "pro_most_popular": "가장 인기",
+
+  "pro_yearly_title": "1년",
+  "pro_yearly_subtitle": "최고의 가치",
+  "pro_best_value": "최고의 제안",
+
+  "pro_subscribe": "구독",
+  "pro_current": "현재 플랜",
+
+  "pro_restore": "구매 복원",
+  "pro_manage": "구독 관리",
+  "pro_promo": "프로모 코드",
+
+  "terms": "이용 약관",
+  "privacy": "개인정보",
+
+  "products_not_found": "제품을 찾을 수 없습니다",
+  "please_wait": "잠시 기다려 주세요",
+
+  "ios_promo_help": "iOS 프로모 코드는 App Store에서 사용됩니다",
+
+  "scenario_locked_text": "시나리오를 변경하기 전에 시뮬레이션을 중지하세요",
+
+  "pro_store_unavailable": "스토어 사용 불가",
+  "pro_selected": "선택됨",
+  "pro_tap_to_select": "탭하여 선택",
+
+  "pro_promo_local_title": "프로모 코드",
+  "pro_promo_local_subtitle": "코드를 입력하여 30일 동안 PRO를 활성화하세요",
+  "pro_promo_apply": "적용",
+
+  "promo_success_30d": "PRO가 30일 동안 활성화되었습니다",
+  "promo_error_empty": "코드를 입력하세요",
+  "promo_error_invalid": "잘못된 코드",
+  "promo_error_used": "이미 사용된 코드입니다",
+  "promo_enter_code": "코드 입력",
+"calculater": "계산기"    ,
+  "pro_active_until": "PRO 만료일"
+}

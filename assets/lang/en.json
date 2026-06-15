@@ -1,0 +1,225 @@
+{
+  "stop": "Stop",
+  "quantity": "Quantity",
+  "simulation_pro": "Simulation PRO",
+  "yes": "Yes",
+  "no": "No",
+
+  "simulation_finished": "Simulation finished",
+  "simulation_saved_file": "Your simulation file has been saved.",
+  "download_pdf_report": "Do you want to download the PDF report?",
+
+  "pdf_created": "PDF created",
+
+  "enter_price": "Enter price",
+  "cancel": "Cancel",
+  "ok": "OK",
+
+  "scenario": "Scenario",
+
+  "open_orders": "Open orders",
+  "price": "Price",
+  "current_price": "Current price",
+  "amount": "Amount",
+
+  "edit_order": "Edit order",
+  "save": "Save",
+
+  "insufficient_data": "Insufficient data",
+  "select_scenario_and_price": "Select scenario and enter start price to continue",
+
+  "long": "LONG",
+  "short": "SHORT",
+  "buy": "BUY",
+  "sell": "SELL",
+
+  "calculator": "Calculator",
+  "entry_price": "Entry price",
+
+  "position_size": "Position size",
+  "position_coef": "Position coefficient",
+  "liquidation_price": "Liquidation price",
+  "roi_pnl": "ROI / PNL",
+
+  "close_position": "Close position",
+  "close_price": "Close price",
+  "close": "Close",
+
+  "cannot_close_block": "Cannot close block",
+  "position_has_active_data": "The position contains active data or orders. Close the position or cancel orders first.",
+
+  "isolated_mode": "Isolated",
+  "cross_mode": "Cross",
+
+  "leverage": "Leverage",
+
+  "enter_profit": "Enter profit",
+  "enter_roi": "Enter ROI (%)",
+  "enter_pnl": "Enter PNL",
+
+  "roi_percent": "ROI %",
+  "pnl": "PNL",
+
+  "enter_leverage": "Enter leverage",
+
+  "average": "Average",
+
+  "enter": "Enter",
+  "market_price": "Market",
+
+  "cannot_reduce_leverage": "Cannot reduce leverage after position opened",
+
+  "margin": "Margin",
+
+  "insufficient_data_title": "Not enough data",
+  "insufficient_data_message": "To continue, enter margin and the start price.",
+
+  "margin_locked_title": "Margin locked",
+  "margin_locked_message": "After opening a position, margin cannot be changed manually.\n\nTo add margin use the 'Average' button.",
+  "understood": "OK, got it",
+
+  "insufficient_balance_message": "Insufficient balance. Please set the required balance first.",
+
+  "simulation_limit_order_hint": "In simulation mode a limit order will be created.\nIf the specified price is lower than the current price, the calculation will use the current price.",
+
+  "calculate": "Calculate",
+
+  "balance": "Balance",
+  "change_balance": "Change balance",
+
+  "scenario_saved": "Scenario saved",
+
+  "pro_feature": "PRO feature",
+
+  "simulation_pro_description_free": "Market behaviour simulation is a PRO feature.\n\nYou have 1 free attempt.\n\nSimulation includes:\n• Cross and isolated model\n• Ability to pause changes\n• Forward playback\n• Export chart to PDF",
+
+  "simulation_pro_description_paid": "Free attempt used.\n\nTo continue using simulation please activate PRO subscription.\n\nPRO version includes:\n• Cross mode\n• Advanced calculations\n• PDF export\n• Full simulation control",
+
+  "simulation_try_free": "Simulation (1)",
+  "get_pro": "Get PRO",
+
+  "cross_pro_title": "PRO feature",
+  "cross_pro_description": "Cross mode is available only for PRO users.\n\nIn the PRO version you get:\n• Cross mode\n• Advanced calculations\n• Additional simulation tools",
+
+  "settings": "Settings",
+
+  "language": "Language",
+  "theme": "Theme",
+  "light_dark": "Light / Dark",
+
+  "pro_version": "PRO version",
+  "open_pro_features": "Unlock PRO features",
+
+  "simulation_history": "Simulation history",
+  "view_trades": "View trades",
+
+  "contact": "Contact",
+  "privacy_policy": "Privacy policy",
+
+  "app_version": "Crypto Calculator & Simulator v1.0.0",
+
+  "privacy_text": "Simulation Lab is an educational simulator and is not a financial tool.\n\nThe application does not collect personal user data.\n\nAll calculations are for informational purposes only.\n\nThe developer is not responsible for any financial decisions made by users.",
+
+  "no_saved_simulations": "No saved simulations",
+
+  "downloads_folder_not_found": "Downloads folder not found",
+  "file_saved": "File saved",
+
+  "delete_simulation_title": "Delete simulation?",
+  "delete_simulation_message": "Are you sure you want to delete this simulation journal?",
+  "delete": "Delete",
+
+  "simulation": "Simulation",
+
+  "random_scenario": "Random",
+  "choose_random_scenario": "Choose random scenario",
+
+  "position_coefficient": "Position coefficient",
+  "cross_pro_text": "Cross mode is available only for PRO users. The PRO version includes cross mode, advanced calculations, and additional simulation tools.",
+
+  "balance_edit": "Edit balance",
+
+  "isolated": "Isolated",
+  "cross": "Cross",
+
+  "enter_value": "Enter",
+
+  "enter_margin_and_price": "Enter margin and start price to continue",
+
+  "margin_locked": "Margin locked",
+  "margin_locked_text": "After opening a position margin cannot be changed manually. Use the Average button to add margin.",
+
+  "block_has_data": "The position contains active data or orders. Close the position or cancel orders first.",
+
+  "insufficient_balance": "Insufficient balance. Set balance first",
+
+  "simulation_limit_order_info": "In simulation mode a limit order will be created. If the specified price is below the current price, calculation will be done at the current price.",
+
+  "simulation_try": "Simulation (1)",
+
+  "simulation_pro_text_free": "Market behavior simulation is a PRO feature.\n\nYou have 1 free attempt.\n\nSimulation includes:\n• Cross and isolated modes\n• Ability to pause changes\n• Fast forward\n• Export chart to PDF",
+
+  "simulation_pro_text_paid": "Free attempt has been used.\n\nTo continue using the simulation,\nplease purchase the PRO subscription.\n\nPRO version includes:\n• Cross mode\n• Advanced calculations\n• PDF export\n• Full simulation control",
+
+  "theme_light_dark": "Light / Dark",
+
+  "privacy_policy_text": "Simulation Lab is an educational simulator and is not a financial instrument.\n\nThe application does not collect personal user data.\n\nAll calculations are for informational purposes only.\n\nThe developer is not responsible for any financial decisions made by users.",
+
+  "average_locked": "Averaging unavailable",
+  "average_locked_text": "Please calculate the position first before averaging.",
+
+  "scenario_locked": "Scenario locked",
+
+  "clear_history": "Clear history",
+  "clear_history_confirm": "Are you sure you want to delete all simulations?",
+  "history_cleared": "History cleared",
+
+  "pro_title": "PRO Subscription",
+  "pro_unlock_title": "Unlock everything",
+  "pro_unlock_subtitle": "Advanced simulations and PRO features",
+  "pro_active": "PRO active",
+
+  "pro_monthly_title": "1 Month",
+  "pro_monthly_subtitle": "Flexible plan",
+
+  "pro_3months_title": "3 Months",
+  "pro_3months_subtitle": "Best balance",
+  "pro_most_popular": "Most popular",
+
+  "pro_yearly_title": "1 Year",
+  "pro_yearly_subtitle": "Best value",
+  "pro_best_value": "Best offer",
+
+  "pro_subscribe": "Subscribe",
+  "pro_current": "Current plan",
+
+  "pro_restore": "Restore purchases",
+  "pro_manage": "Manage subscription",
+  "pro_promo": "Promo code",
+
+  "terms": "Terms of Use",
+  "privacy": "Privacy Policy",
+
+  "products_not_found": "Products not found",
+  "please_wait": "Please wait",
+
+  "ios_promo_help": "Promo codes on iOS are redeemed through the App Store",
+
+  "scenario_locked_text": "Stop the simulation before changing the scenario.",
+
+  "pro_store_unavailable": "Store unavailable",
+  "pro_selected": "Selected",
+  "pro_tap_to_select": "Tap to select",
+
+  "pro_promo_local_title": "Promo code",
+  "pro_promo_local_subtitle": "Enter your local code to unlock PRO for 30 days.",
+  "pro_promo_apply": "Apply promo code",
+
+  "promo_success_30d": "PRO access activated for 30 days.",
+  "promo_error_empty": "Enter a promo code.",
+  "promo_error_invalid": "Invalid promo code.",
+  "promo_error_used": "This promo code has already been used.",
+  "promo_enter_code": "Enter code",
+"calculater": "Calculator",
+  "pro_active_until": "PRO active until"
+}

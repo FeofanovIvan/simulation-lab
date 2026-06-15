@@ -1,0 +1,225 @@
+{
+  "stop": "Parar",
+  "quantity": "Quantidade",
+  "simulation_pro": "Simulation PRO",
+  "yes": "Sim",
+  "no": "Não",
+
+  "simulation_finished": "Simulação concluída",
+  "simulation_saved_file": "Sua simulação foi salva",
+  "download_pdf_report": "Deseja baixar o relatório em PDF?",
+
+  "pdf_created": "PDF criado",
+
+  "enter_price": "Digite o preço",
+  "cancel": "Cancelar",
+  "ok": "OK",
+
+  "scenario": "Cenário",
+
+  "open_orders": "Ordens abertas",
+  "price": "Preço",
+  "current_price": "Preço atual",
+  "amount": "Quantidade",
+
+  "edit_order": "Editar ordem",
+  "save": "Salvar",
+
+  "insufficient_data": "Dados insuficientes",
+  "select_scenario_and_price": "Selecione um cenário e insira o preço inicial",
+
+  "long": "LONG",
+  "short": "SHORT",
+  "buy": "Comprar",
+  "sell": "Vender",
+
+  "calculator": "Calculadora",
+  "entry_price": "Preço de entrada",
+
+  "position_size": "Tamanho da posição",
+  "position_coef": "Coeficiente da posição",
+  "liquidation_price": "Preço de liquidação",
+  "roi_pnl": "ROI / PNL",
+
+  "close_position": "Fechar posição",
+  "close_price": "Preço de fechamento",
+  "close": "Fechar",
+
+  "cannot_close_block": "Não é possível fechar o bloco",
+  "position_has_active_data": "A posição contém dados ou ordens ativas. Feche a posição ou cancele as ordens primeiro.",
+
+  "isolated_mode": "Isolado",
+  "cross_mode": "Cross",
+
+  "leverage": "Alavancagem",
+
+  "enter_profit": "Inserir lucro",
+  "enter_roi": "Inserir ROI (%)",
+  "enter_pnl": "Inserir PNL",
+
+  "roi_percent": "ROI %",
+  "pnl": "PNL",
+
+  "enter_leverage": "Inserir alavancagem",
+
+  "average": "Fazer média",
+
+  "enter": "Inserir",
+  "market_price": "Mercado",
+
+  "cannot_reduce_leverage": "Não é possível reduzir a alavancagem após abrir a posição",
+
+  "margin": "Margem",
+
+  "insufficient_data_title": "Dados insuficientes",
+  "insufficient_data_message": "Insira a margem e o preço inicial",
+
+  "margin_locked_title": "Margem bloqueada",
+  "margin_locked_message": "Após abrir uma posição, a margem não pode ser alterada manualmente.\n\nUse o botão “Fazer média” para adicionar margem.",
+  "understood": "Entendi",
+
+  "insufficient_balance_message": "Saldo insuficiente. Defina o saldo necessário.",
+
+  "simulation_limit_order_hint": "No modo simulação será criada uma ordem limitada.\nSe o preço informado for menor que o preço atual, o preço atual será utilizado.",
+
+  "calculate": "Calcular",
+
+  "balance": "Saldo",
+  "change_balance": "Alterar saldo",
+
+  "scenario_saved": "Cenário salvo",
+
+  "pro_feature": "Recurso PRO",
+
+  "simulation_pro_description_free": "A simulação de mercado é um recurso PRO.\n\nVocê tem 1 tentativa gratuita.\n\nInclui:\n• Modos cross e isolado\n• Pausar simulação\n• Avanço rápido\n• Exportação em PDF",
+
+  "simulation_pro_description_paid": "A tentativa gratuita foi utilizada.\n\nPara continuar, ative a assinatura PRO.\n\nA versão PRO inclui:\n• Modo cross\n• Cálculos avançados\n• Exportação em PDF\n• Controle total",
+
+  "simulation_try_free": "Simulação (1)",
+  "get_pro": "Obter PRO",
+
+  "cross_pro_title": "Recurso PRO",
+  "cross_pro_description": "O modo cross está disponível apenas para usuários PRO.\n\nA versão PRO inclui:\n• Modo cross\n• Cálculos avançados\n• Ferramentas adicionais",
+
+  "settings": "Configurações",
+
+  "language": "Idioma",
+  "theme": "Tema",
+  "light_dark": "Claro / Escuro",
+
+  "pro_version": "Versão PRO",
+  "open_pro_features": "Desbloquear recursos PRO",
+
+  "simulation_history": "Histórico de simulações",
+  "view_trades": "Ver operações",
+
+  "contact": "Contato",
+  "privacy_policy": "Política de privacidade",
+
+  "app_version": "Crypto Calculator & Simulator v1.0.0",
+
+  "privacy_text": "Simulation Lab é um simulador educacional e não uma ferramenta financeira.\n\nO aplicativo não coleta dados pessoais.\n\nTodos os cálculos são apenas informativos.\n\nO desenvolvedor não é responsável por decisões financeiras.",
+
+  "no_saved_simulations": "Nenhuma simulação salva",
+
+  "downloads_folder_not_found": "Pasta de downloads não encontrada",
+  "file_saved": "Arquivo salvo",
+
+  "delete_simulation_title": "Excluir simulação?",
+  "delete_simulation_message": "Tem certeza de que deseja excluir este registro de simulação?",
+  "delete": "Excluir",
+
+  "simulation": "Simulação",
+
+  "random_scenario": "Aleatório",
+  "choose_random_scenario": "Escolher cenário aleatório",
+
+  "position_coefficient": "Coeficiente da posição",
+  "cross_pro_text": "O modo cross está disponível apenas na versão PRO. Inclui modo cross, cálculos avançados e ferramentas adicionais.",
+
+  "balance_edit": "Editar saldo",
+
+  "isolated": "Isolado",
+  "cross": "Cross",
+
+  "enter_value": "Inserir valor",
+
+  "enter_margin_and_price": "Insira a margem e o preço inicial",
+
+  "margin_locked": "Margem bloqueada",
+  "margin_locked_text": "Após abrir uma posição, a margem não pode ser alterada manualmente. Use o botão “Fazer média”.",
+
+  "block_has_data": "A posição contém dados ou ordens ativas. Feche a posição ou cancele as ordens primeiro.",
+
+  "insufficient_balance": "Saldo insuficiente. Defina o saldo primeiro",
+
+  "simulation_limit_order_info": "No modo simulação, uma ordem limitada é criada. Se o preço for menor, será usado o preço atual.",
+
+  "simulation_try": "Simulação (1)",
+
+  "simulation_pro_text_free": "A simulação é um recurso PRO.\n\nVocê tem 1 tentativa gratuita.\n\nInclui:\n• Modos cross e isolado\n• Pausa\n• Avanço rápido\n• PDF",
+
+  "simulation_pro_text_paid": "A tentativa gratuita foi utilizada.\n\nPara continuar, adquira PRO.\n\nInclui:\n• Modo cross\n• Cálculos avançados\n• PDF\n• Controle total",
+
+  "theme_light_dark": "Claro / Escuro",
+
+  "privacy_policy_text": "Simulation Lab é um simulador educacional e não uma ferramenta financeira.\n\nO aplicativo não coleta dados pessoais.\n\nTodos os cálculos são informativos.\n\nO desenvolvedor não é responsável.",
+
+  "average_locked": "Média indisponível",
+  "average_locked_text": "Calcule a posição primeiro",
+
+  "scenario_locked": "Cenário bloqueado",
+
+  "clear_history": "Limpar histórico",
+  "clear_history_confirm": "Excluir todas as simulações?",
+  "history_cleared": "Histórico limpo",
+
+  "pro_title": "Assinatura PRO",
+  "pro_unlock_title": "Desbloquear tudo",
+  "pro_unlock_subtitle": "Simulações avançadas e recursos PRO",
+  "pro_active": "PRO ativo",
+
+  "pro_monthly_title": "1 mês",
+  "pro_monthly_subtitle": "Plano flexível",
+
+  "pro_3months_title": "3 meses",
+  "pro_3months_subtitle": "Melhor equilíbrio",
+  "pro_most_popular": "Mais popular",
+
+  "pro_yearly_title": "1 ano",
+  "pro_yearly_subtitle": "Melhor valor",
+  "pro_best_value": "Melhor oferta",
+
+  "pro_subscribe": "Assinar",
+  "pro_current": "Plano atual",
+
+  "pro_restore": "Restaurar compras",
+  "pro_manage": "Gerenciar assinatura",
+  "pro_promo": "Código promocional",
+
+  "terms": "Termos de uso",
+  "privacy": "Política de privacidade",
+
+  "products_not_found": "Produtos não encontrados",
+  "please_wait": "Aguarde",
+
+  "ios_promo_help": "Códigos promocionais no iOS são usados via App Store",
+
+  "scenario_locked_text": "Pare a simulação antes de alterar o cenário",
+
+  "pro_store_unavailable": "Loja indisponível",
+  "pro_selected": "Selecionado",
+  "pro_tap_to_select": "Toque para selecionar",
+
+  "pro_promo_local_title": "Código promocional",
+  "pro_promo_local_subtitle": "Insira o código para desbloquear PRO por 30 dias",
+  "pro_promo_apply": "Aplicar",
+
+  "promo_success_30d": "PRO ativado por 30 dias",
+  "promo_error_empty": "Insira o código",
+  "promo_error_invalid": "Código inválido",
+  "promo_error_used": "Este código já foi utilizado",
+  "promo_enter_code": "Digite o código",
+"calculater": "Calculadora"  ,
+  "pro_active_until": "PRO ativo até"
+}

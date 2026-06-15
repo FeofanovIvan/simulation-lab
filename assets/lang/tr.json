@@ -1,0 +1,225 @@
+{
+  "stop": "Durdur",
+  "quantity": "Miktar",
+  "simulation_pro": "Simulation PRO",
+  "yes": "Evet",
+  "no": "Hayır",
+
+  "simulation_finished": "Simülasyon tamamlandı",
+  "simulation_saved_file": "Simülasyonunuz kaydedildi",
+  "download_pdf_report": "PDF raporunu indirmek ister misiniz?",
+
+  "pdf_created": "PDF oluşturuldu",
+
+  "enter_price": "Fiyat girin",
+  "cancel": "İptal",
+  "ok": "Tamam",
+
+  "scenario": "Senaryo",
+
+  "open_orders": "Açık emirler",
+  "price": "Fiyat",
+  "current_price": "Güncel fiyat",
+  "amount": "Miktar",
+
+  "edit_order": "Emri düzenle",
+  "save": "Kaydet",
+
+  "insufficient_data": "Yetersiz veri",
+  "select_scenario_and_price": "Bir senaryo seçin ve başlangıç fiyatını girin",
+
+  "long": "LONG",
+  "short": "SHORT",
+  "buy": "Al",
+  "sell": "Sat",
+
+  "calculator": "Hesap makinesi",
+  "entry_price": "Giriş fiyatı",
+
+  "position_size": "Pozisyon büyüklüğü",
+  "position_coef": "Pozisyon katsayısı",
+  "liquidation_price": "Likidasyon fiyatı",
+  "roi_pnl": "ROI / PNL",
+
+  "close_position": "Pozisyonu kapat",
+  "close_price": "Kapanış fiyatı",
+  "close": "Kapat",
+
+  "cannot_close_block": "Blok kapatılamıyor",
+  "position_has_active_data": "Pozisyonda aktif veri veya emirler var. Önce pozisyonu kapatın veya emirleri iptal edin.",
+
+  "isolated_mode": "İzole",
+  "cross_mode": "Cross",
+
+  "leverage": "Kaldıraç",
+
+  "enter_profit": "Kâr girin",
+  "enter_roi": "ROI (%) girin",
+  "enter_pnl": "PNL girin",
+
+  "roi_percent": "ROI %",
+  "pnl": "PNL",
+
+  "enter_leverage": "Kaldıraç girin",
+
+  "average": "Ortalama al",
+
+  "enter": "Gir",
+  "market_price": "Piyasa",
+
+  "cannot_reduce_leverage": "Pozisyon açıldıktan sonra kaldıraç azaltılamaz",
+
+  "margin": "Marjin",
+
+  "insufficient_data_title": "Yetersiz veri",
+  "insufficient_data_message": "Marjin ve başlangıç fiyatını girin",
+
+  "margin_locked_title": "Marjin kilitli",
+  "margin_locked_message": "Pozisyon açıldıktan sonra marjin manuel olarak değiştirilemez.\n\nMarjin eklemek için “Ortalama al” düğmesini kullanın.",
+  "understood": "Anlaşıldı",
+
+  "insufficient_balance_message": "Yetersiz bakiye. Lütfen gerekli bakiyeyi ayarlayın.",
+
+  "simulation_limit_order_hint": "Simülasyon modunda bir limit emri oluşturulacaktır.\nBelirtilen fiyat mevcut fiyattan düşükse mevcut fiyat kullanılacaktır.",
+
+  "calculate": "Hesapla",
+
+  "balance": "Bakiye",
+  "change_balance": "Bakiyeyi değiştir",
+
+  "scenario_saved": "Senaryo kaydedildi",
+
+  "pro_feature": "PRO özelliği",
+
+  "simulation_pro_description_free": "Piyasa simülasyonu bir PRO özelliğidir.\n\n1 ücretsiz denemeniz var.\n\nŞunları içerir:\n• Cross ve izole mod\n• Duraklatma\n• İleri sarma\n• PDF dışa aktarma",
+
+  "simulation_pro_description_paid": "Ücretsiz deneme kullanıldı.\n\nDevam etmek için PRO aboneliğini etkinleştirin.\n\nPRO sürümü şunları içerir:\n• Cross modu\n• Gelişmiş hesaplamalar\n• PDF dışa aktarma\n• Tam kontrol",
+
+  "simulation_try_free": "Simülasyon (1)",
+  "get_pro": "PRO al",
+
+  "cross_pro_title": "PRO özelliği",
+  "cross_pro_description": "Cross modu yalnızca PRO kullanıcılar için mevcuttur.\n\nPRO sürümü şunları içerir:\n• Cross modu\n• Gelişmiş hesaplamalar\n• Ek araçlar",
+
+  "settings": "Ayarlar",
+
+  "language": "Dil",
+  "theme": "Tema",
+  "light_dark": "Açık / Koyu",
+
+  "pro_version": "PRO sürümü",
+  "open_pro_features": "PRO özelliklerini aç",
+
+  "simulation_history": "Simülasyon geçmişi",
+  "view_trades": "İşlemleri görüntüle",
+
+  "contact": "İletişim",
+  "privacy_policy": "Gizlilik politikası",
+
+  "app_version": "Crypto Calculator & Simulator v1.0.0",
+
+  "privacy_text": "Simulation Lab bir eğitim simülatörüdür ve finansal bir araç değildir.\n\nUygulama kişisel veri toplamaz.\n\nTüm hesaplamalar yalnızca bilgilendirme amaçlıdır.\n\nGeliştirici finansal kararlardan sorumlu değildir.",
+
+  "no_saved_simulations": "Kaydedilmiş simülasyon yok",
+
+  "downloads_folder_not_found": "İndirilenler klasörü bulunamadı",
+  "file_saved": "Dosya kaydedildi",
+
+  "delete_simulation_title": "Simülasyon silinsin mi?",
+  "delete_simulation_message": "Bu simülasyonu silmek istediğinize emin misiniz?",
+  "delete": "Sil",
+
+  "simulation": "Simülasyon",
+
+  "random_scenario": "Rastgele",
+  "choose_random_scenario": "Rastgele senaryo seç",
+
+  "position_coefficient": "Pozisyon katsayısı",
+  "cross_pro_text": "Cross modu yalnızca PRO sürümünde mevcuttur. Gelişmiş hesaplamalar ve ek araçlar içerir.",
+
+  "balance_edit": "Bakiyeyi düzenle",
+
+  "isolated": "İzole",
+  "cross": "Cross",
+
+  "enter_value": "Değer gir",
+
+  "enter_margin_and_price": "Marjin ve başlangıç fiyatını girin",
+
+  "margin_locked": "Marjin kilitli",
+  "margin_locked_text": "Pozisyon açıldıktan sonra marjin değiştirilemez. “Ortalama al” düğmesini kullanın.",
+
+  "block_has_data": "Pozisyonda aktif veri veya emirler var. Önce pozisyonu kapatın veya emirleri iptal edin.",
+
+  "insufficient_balance": "Yetersiz bakiye. Önce bakiyeyi ayarlayın",
+
+  "simulation_limit_order_info": "Simülasyon modunda limit emri oluşturulur. Fiyat düşükse mevcut fiyat kullanılır.",
+
+  "simulation_try": "Simülasyon (1)",
+
+  "simulation_pro_text_free": "Simülasyon bir PRO özelliğidir.\n\n1 ücretsiz deneme hakkınız var.\n\nİçerir:\n• Cross ve izole mod\n• Duraklatma\n• İleri sarma\n• PDF",
+
+  "simulation_pro_text_paid": "Ücretsiz deneme kullanıldı.\n\nDevam etmek için PRO satın alın.\n\nİçerir:\n• Cross modu\n• Gelişmiş hesaplamalar\n• PDF\n• Tam kontrol",
+
+  "theme_light_dark": "Açık / Koyu",
+
+  "privacy_policy_text": "Simulation Lab bir eğitim simülatörüdür ve finansal bir araç değildir.\n\nUygulama kişisel veri toplamaz.\n\nTüm hesaplamalar bilgilendirme amaçlıdır.\n\nGeliştirici sorumlu değildir.",
+
+  "average_locked": "Ortalama kullanılamıyor",
+  "average_locked_text": "Önce pozisyonu hesaplayın",
+
+  "scenario_locked": "Senaryo kilitli",
+
+  "clear_history": "Geçmişi temizle",
+  "clear_history_confirm": "Tüm simülasyonları silmek istiyor musunuz?",
+  "history_cleared": "Geçmiş temizlendi",
+
+  "pro_title": "PRO abonelik",
+  "pro_unlock_title": "Her şeyi aç",
+  "pro_unlock_subtitle": "Gelişmiş simülasyonlar ve PRO özellikler",
+  "pro_active": "PRO aktif",
+
+  "pro_monthly_title": "1 ay",
+  "pro_monthly_subtitle": "Esnek plan",
+
+  "pro_3months_title": "3 ay",
+  "pro_3months_subtitle": "En iyi denge",
+  "pro_most_popular": "En popüler",
+
+  "pro_yearly_title": "1 yıl",
+  "pro_yearly_subtitle": "En iyi değer",
+  "pro_best_value": "En iyi teklif",
+
+  "pro_subscribe": "Abone ol",
+  "pro_current": "Mevcut plan",
+
+  "pro_restore": "Satın alımları geri yükle",
+  "pro_manage": "Aboneliği yönet",
+  "pro_promo": "Promosyon kodu",
+
+  "terms": "Kullanım şartları",
+  "privacy": "Gizlilik",
+
+  "products_not_found": "Ürün bulunamadı",
+  "please_wait": "Lütfen bekleyin",
+
+  "ios_promo_help": "iOS’ta promosyon kodları App Store üzerinden kullanılır",
+
+  "scenario_locked_text": "Senaryoyu değiştirmeden önce simülasyonu durdurun",
+
+  "pro_store_unavailable": "Mağaza kullanılamıyor",
+  "pro_selected": "Seçildi",
+  "pro_tap_to_select": "Seçmek için dokunun",
+
+  "pro_promo_local_title": "Promosyon kodu",
+  "pro_promo_local_subtitle": "30 günlüğüne PRO’yu açmak için kodu girin",
+  "pro_promo_apply": "Uygula",
+
+  "promo_success_30d": "PRO 30 gün boyunca etkinleştirildi",
+  "promo_error_empty": "Kod girin",
+  "promo_error_invalid": "Geçersiz kod",
+  "promo_error_used": "Bu kod zaten kullanıldı",
+  "promo_enter_code": "Kod gir",
+"calculater": "Hesap makinesi" ,
+  "pro_active_until": "PRO geçerlilik tarihi"
+}
